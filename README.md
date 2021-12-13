@@ -1,4 +1,4 @@
-# Hi, I'm kdpuvvadi
+# Hi, I'm KD Puvvadi
 
 ## Mostly work on/with
 
@@ -8,6 +8,7 @@
 - Powershell
 - NGINX
 - Github Actions
+- SAP Fiori/UI5
 
 - Cloud platform: Digital Ocean, Microsoft Azure
 - OS: Linux (Debian)
