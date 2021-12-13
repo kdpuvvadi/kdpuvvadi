@@ -9,9 +9,9 @@
 - NGINX
 - Github Actions
 
-Cloud platform: Digital Ocean, Microsoft Azure
-OS: Linux (Debian)
-Machine: Mac Mini M1, Alienware 17 M5
+- Cloud platform: Digital Ocean, Microsoft Azure
+- OS: Linux (Debian)
+- Machine: Mac Mini M1, Alienware 17 M5
 
 ## i love
 
