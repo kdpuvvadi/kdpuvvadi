@@ -10,11 +10,11 @@
 - Github Actions
 - SAP Fiori/UI5
 
-- Cloud platform: Digital Ocean, Microsoft Azure
+- Cloud platform: DigitalOcean, Microsoft Azure, AWS
 - OS: Linux (Debian)
 - Machine: Mac Mini M1, Alienware 17 M5
 
-## i love
+## love
 
 - Cold Brew
 - any/all tech
