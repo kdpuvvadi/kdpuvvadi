@@ -19,12 +19,11 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png" alt="powershell" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" alt="azure" height="40" style="vertical-align:top; margin:4px">
-<img src="https://avatars.githubusercontent.com/u/2810941?s=200&v=4" alt="Windows" height="40" style="vertical-align:top; margin:4px">
+<img src="https://avatars.githubusercontent.com/u/2810941?s=200&v=4" alt="g cloud" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="ubuntu" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg" alt="kuberneties" height="40" style="vertical-align:top; margin:4px">
 <img src="https://www.sap.com/content/dam/application/shared/logos/sap-logo-svg.svg" alt="sap" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/1200px-DigitalOcean_logo.svg.png" alt="digital ocean" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://yt3.ggpht.com/ytc/AKedOLTKMcH7lIecL5268VyOtT60IIsPvO8w2c-fjWKGhA" alt="nginx" height="40" style="vertical-align:top; margin:4px">
 
   
