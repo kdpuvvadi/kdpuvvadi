@@ -1,4 +1,4 @@
-## Hi there, I'm KD and I'm a DevOps and Cloud Systems Engineer
+## Hi there, I'm KD and a DevOps and Cloud Systems Engineer working as a Sr. Site reliability Engineer
 
 ## Languages and Tools
 
