@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there, I'm KD 🖐
 
-<!--
-**kdpuvvadi/kdpuvvadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Professionally
 
-Here are some ideas to get you started:
+Everything from Ops, Dev Rel to Architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### love
+
+- Cold Brew
+- any/all tech
+- Cycling
+- International Diplomacy
+- And Movies, a lot of 'em.
+
+### Find me at
+
+- [twitter](https://twitter.com/kdpuvvadi)
+- [instagram](https://www.instagram.com)
+- [website](https://puvvadi.me/)
+- [blog](https://blog.puvvadi.me/)
+- [mastodon](https://infosec.exchange/@kdpuvvadi)
