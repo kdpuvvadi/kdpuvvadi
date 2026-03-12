@@ -22,19 +22,8 @@ Everything from Ops, Dev Rel to Architecture.
 
 ## Watching Now
 
-- Doctor Who
-- Masters of the Air
-- Ted Lasso
-- Presumed Innocent
+- Severance
+- Shrinking
+- Monarch
 - Fallout
 - Family Guy
-
-### Watch List
-
-- Star Trek: Discovery
-- Invincible
-- Resident Alien
-- Tom Clancy's Jack Ryan
-- The Orville
-- The Boys
-- Star Trek: Picard
